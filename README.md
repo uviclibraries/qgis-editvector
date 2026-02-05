@@ -1,4 +1,4 @@
-# QGIS Edit Vectors
+# Edit Vector with QGIS
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/qgis-editvector
