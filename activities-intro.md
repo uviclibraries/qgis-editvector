@@ -6,12 +6,12 @@ parent: Workshop Activities
 ---
 # Hands-On Activities Introduction
 <img src="images/qgis-logo.png" style="float:right;width:180px;">
-Please review the following <a href="images/IntroRaster_WorkshopOverview.pdf" target="_blank">
+Please review the following <a href="images/QGIS_EditVectorData_IntroductorySlides.pdf" target="_blank">
   Introductory Slides
 </a>
 
 
-[Download](images/QGIS_IntrotoRaster_Data.zip){:target="_blank"} workshop data
+[Download](images/QGIS_EditVectorWorkshop_Data.zip){:target="_blank"} workshop data
 
 
 
