@@ -5,7 +5,7 @@ nav_order: 1
 parent: Workshop Activities
 ---
 # Hands-On Activities Introduction
-<img src="images/images/QGIS-q.png" style="float:right;width:180px;">
+<img src="images/QGIS-q.png" style="float:right;width:180px;">
 Please review the following <a href="images/QGIS_EditVectorData_IntroductorySlides.pdf" target="_blank">
   Introductory Slides
 </a>
