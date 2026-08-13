@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 # Hands-On Activities Introduction
 <img src="images/QGIS-q.png" style="float:right;width:180px;">
-Please review the following <a href="images/QGIS_EditVectorData_IntroductorySlides.pdf" target="_blank">
+Please review the following <a href="images/EditVector_WorkshopOverview.pdf" target="_blank">
   Introductory Slides
 </a>
 
