@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Activities Introduction
+title: Self-Directed Introduction
 nav_order: 1
 parent: Workshop Activities
 ---
-# Hands-On Activities Introduction
+# Self-Directed Introduction
 <img src="images/QGIS-q.png" style="float:right;width:180px;">
 Please review the following <a href="images/EditVector_WorkshopOverview.pdf" target="_blank">
   Introductory Slides
